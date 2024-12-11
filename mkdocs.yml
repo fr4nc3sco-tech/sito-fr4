@@ -30,7 +30,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    # - toc.integrate
+    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
@@ -62,6 +62,3 @@ nav:
   - Tags: tags.md
   - Blog:
       - blog/index.md
-
-      #fcccuc
-
