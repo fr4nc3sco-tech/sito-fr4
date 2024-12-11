@@ -2,6 +2,8 @@ site_name: My Fr4ncLab
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+
+  logo: assets/logofr4.png
   palette:
     # Light mode
     - scheme: default
