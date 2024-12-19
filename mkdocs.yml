@@ -8,7 +8,7 @@ theme:
     # Light mode
     - scheme: default
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
       primary: yellow
       accent: yellow
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
       primary: yellow
       accent: yellow
@@ -53,7 +53,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Home: index.md
+  - Documentazione: index.md
   - Code Docs:
       - Java: coding/my-first-java-file.md
   - Biografia:
