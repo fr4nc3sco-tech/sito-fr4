@@ -44,7 +44,6 @@ plugins:
 
 markdown_extensions:
   - attr_list
-  - md_in_html
   - pymdownx.blocks.caption
   - pymdownx.highlight:
       anchor_linenums: true
