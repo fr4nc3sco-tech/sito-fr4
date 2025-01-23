@@ -11,7 +11,7 @@ Ecco cosa ho scoperto: il graffitismo nasce alla fine degli anni ’60, quasi co
 All’inizio, era un fenomeno legato esclusivamente ai giovani afroamericani di New York, ma in seguito divenne uno strumento di espressione per i gruppi punk e per i loro ideali anarchici. Le scritte, più o meno curate, conosciute come tags, cominciarono a comparire sui muri della città, realizzate prevalentemente con bombolette spray. Stazioni, tunnel e metropolitane divennero i luoghi preferiti per queste opere.
 Dal 1973, il graffitismo si evolve in un vero e proprio movimento artistico con la nascita del primo collettivo di artisti: gli United Graffiti Artists.
 Durante i nostri sopralluoghi abbiamo notato molti tag, ma anche graffiti che esprimono ribellione politica. Alcuni contengono scritte ripetute o parole in lingue diverse. Analizzandole più attentamente, abbiamo scoperto che alcune di queste parole erano in arabo. Traducendole, abbiamo trovato messaggi che reclamano libertà e affrontano altri temi profondi.
-Di recente, abbiamo realizzato un breve video in cui mostriamo un graffito e analizziamo il suo contesto complessivo. Il nostro studio è ancora in corso, ma passo dopo passo stiamo approfondendo, ogni aspetto di questo straordinario fenomeno.
+Di recente, abbiamo realizzato un breve video in cui mostriamo un graffito e analizziamo il suo contesto complessivo. Il nostro studio è ancora in corso, ma passo dopo passo stiamo approfondendo ogni aspetto di questo straordinario fenomeno.
 
 ![](fotograff1.jpeg){ width="300" }
 ![](fotograff2.jpeg){ width="300" }
