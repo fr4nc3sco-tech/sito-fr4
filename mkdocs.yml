@@ -2,7 +2,6 @@ site_name: My Fr4ncLab
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-
   logo: assets/logofr4.png
   palette:
     # Light mode
@@ -44,6 +43,9 @@ plugins:
   - blog
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -53,7 +55,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - Documentazione: index.md
+  - Home: index.md
   - Code Docs:
       - Java: coding/my-first-java-file.md
   - Biografia:
@@ -62,3 +64,7 @@ nav:
   - Tags: tags.md
   - Blog:
       - blog/index.md
+  - documentazione: documentazione/about.md
+
+extra_css:
+ - asseets/styles.css
